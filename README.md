@@ -4,7 +4,9 @@ This project implements a **single-cycle RISC-V processor** based on the RV32I i
 
 The project is aimed at understanding processor datapaths, control logic, and instruction execution in a minimal yet complete RISC-V CPU.
 
----
+The Rtl Design
+![image](https://github.com/user-attachments/assets/1455b193-5228-4860-a95f-95c5fd4cbd2c)
+
 
 ## ⚙️ Features
 
